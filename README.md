@@ -6,5 +6,8 @@
 3. datad
 4. receiverd
 5. vspoold
-6. All Python2 Libraries
-![latest situation report](https://github.com/North-Ridge-Digital/OpenStar/blob/main/sitreps/openstar_decomp_sitrep_1781542288.png?raw=true)
+6. All Python2 Libraries (converting to Python3)
+7. imageCut
+8. imageSmooth
+9. Full Migration from the now deprecated MICO (Mico Is COrba) to omniORB
+![latest situation report](https://github.com/North-Ridge-Digital/OpenStar/blob/main/sitreps/os1_sitrep-1786202220.png?raw=true)
